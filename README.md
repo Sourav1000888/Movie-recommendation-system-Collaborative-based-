@@ -23,6 +23,7 @@ This project implements a **collaborative filtering recommendation system** that
 ---
 
 ## 📂 Project Structure
+```
 collaborative-recommender/
 │── data/
 │── notebooks/
@@ -42,7 +43,7 @@ collaborative-recommender/
 │── requirements.txt
 │── README.md
 
----
+```
 
 ## ⚙️ Installation
 ```bash
