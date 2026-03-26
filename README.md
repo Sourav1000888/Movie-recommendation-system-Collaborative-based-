@@ -49,3 +49,13 @@ collaborative-recommender/
 git clone https://github.com/YOUR-USERNAME/collaborative-recommender.git
 ```
 
+
+
+## 📊 Model Details
+* Pivot table : for user-to-user / item-to-item
+* user similarity : cosine similarity for user based recommendations
+* item similarity : cosine similarity for item based recommendations
+* SBERT embedding : for better recommendations
+* Faiss : Store embedding in faiss
+---
+
